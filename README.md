@@ -2,7 +2,7 @@
 
 Basic Homography transformation to project ground back to camera plane.
 
-This also uses optical tracking on a few points to start and estimate speed. 
+This also uses optical tracking on a few points to be used for vehicle speed estimation. 
 
 Dependencies:
 ----------------
