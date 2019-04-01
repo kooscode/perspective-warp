@@ -27,7 +27,7 @@
 #include "opencv2/imgcodecs.hpp"
 #include "opencv2/highgui.hpp"
 
-//YOLO V3 INCLUDES - https://github.com/AlexeyAB/darknet
+//YOLO V3 INCLUDES - https://github.com/TerraClear/darknet
 //compiled for SO/Lib and OPENCV using GPU(Cuda/CuDNN) and GPU Tracking.
 #define OPENCV
 #define TRACK_OPTFLOW
