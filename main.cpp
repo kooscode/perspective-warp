@@ -34,12 +34,7 @@
 #define GPU
 #include <darknet/include/yolo_v2_class.hpp>
 
-
-//#ifndef TC_USE_BLACKFLY
-//    #define TC_USE_BLACKFLY
-//#endif
-//#include "libterraclear/src/camera_flir_blackfly.hpp"
-
+//libterraclear
 #include "libterraclear/src/camera_async.hpp"
 #include "libterraclear/src/camera_file.hpp"
 #include "libterraclear/src/vision_warp.h"
